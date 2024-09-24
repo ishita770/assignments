@@ -12,7 +12,7 @@
     <body ng-controller="firstAppController">
         <div class="container">
             <label>
-                Enter Items That You Are Usually Eat For Lunch
+                Enter Items That You Are Usually Eat For Lunch.
                 <b>(Please use Comma-Separated)</b>
                 <br>
                 <b>NOTE:- </b>
